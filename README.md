@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/satyamxz/dsa-series/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyamxz/dsa-series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyamxz/dsa-series/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
 |  |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/satyamxz/dsa-series/tree/master/0021-merge-two-sorted-lists) |
+## Matrix
+|  |
+| ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 <!---LeetCode Topics End-->
