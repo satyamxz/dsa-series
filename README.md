@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/satyamxz/dsa-series/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamxz/dsa-series/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 ## Sorting
 |  |
@@ -98,4 +100,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
