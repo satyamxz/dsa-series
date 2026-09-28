@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyamxz/dsa-series/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyamxz/dsa-series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyamxz/dsa-series/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -113,9 +115,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/satyamxz/dsa-series/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/satyamxz/dsa-series/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
