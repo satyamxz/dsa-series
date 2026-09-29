@@ -3,41 +3,58 @@ public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
         vector<int> ans;
 
-        int startRow = 0;
-        int endRow = matrix.size() - 1;
+        int row = matrix.size();
+        int col = matrix[0].size();
 
-        int startCol = 0;
-        int endCol = matrix[0].size() - 1;
+        int count = 0;
+        int total = row * col;
 
-        while (startRow <= endRow && startCol <= endCol) {
+        int startingRow = 0;
+        int startingCol = 0;
+        int endingRow = row - 1;
+        int endingCol = col - 1;
 
-            // 1. Left → Right
-            for (int col = startCol; col <= endCol; col++) {
-                ans.push_back(matrix[startRow][col]);
+        while (count < total) {
+
+            // Print starting row → left to right
+            for (int index = startingCol;
+                 count < total && index <= endingCol;
+                 index++) {
+
+                ans.push_back(matrix[startingRow][index]);
+                count++;
             }
-            startRow++;
+            startingRow++;
 
-            // 2. Top → Bottom
-            for (int row = startRow; row <= endRow; row++) {
-                ans.push_back(matrix[row][endCol]);
-            }
-            endCol--;
+            // Print ending column → top to bottom
+            for (int index = startingRow;
+                 count < total && index <= endingRow;
+                 index++) {
 
-            // 3. Right → Left
-            if (startRow <= endRow) {
-                for (int col = endCol; col >= startCol; col--) {
-                    ans.push_back(matrix[endRow][col]);
-                }
-                endRow--;
+                ans.push_back(matrix[index][endingCol]);
+                count++;
             }
+            endingCol--;
 
-            // 4. Bottom → Top
-            if (startCol <= endCol) {
-                for (int row = endRow; row >= startRow; row--) {
-                    ans.push_back(matrix[row][startCol]);
-                }
-                startCol++;
+            // Print ending row → right to left
+            for (int index = endingCol;
+                 count < total && index >= startingCol;
+                 index--) {
+
+                ans.push_back(matrix[endingRow][index]);
+                count++;
             }
+            endingRow--;
+
+            // Print starting column → bottom to top
+            for (int index = endingRow;
+                 count < total && index >= startingRow;
+                 index--) {
+
+                ans.push_back(matrix[index][startingCol]);
+                count++;
+            }
+            startingCol++;
         }
 
         return ans;
