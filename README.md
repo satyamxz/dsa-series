@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/satyamxz/dsa-series/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/satyamxz/dsa-series/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/satyamxz/dsa-series/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyamxz/dsa-series/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamxz/dsa-series/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/satyamxz/dsa-series/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/satyamxz/dsa-series/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 ## Simulation
 |  |
