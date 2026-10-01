@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/satyamxz/dsa-series/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/satyamxz/dsa-series/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamxz/dsa-series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/satyamxz/dsa-series/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/satyamxz/dsa-series/tree/master/0074-search-a-2d-matrix) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamxz/dsa-series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
@@ -40,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/satyamxz/dsa-series/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/satyamxz/dsa-series/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/satyamxz/dsa-series/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/satyamxz/dsa-series/tree/master/0344-reverse-string) |
