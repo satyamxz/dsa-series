@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/satyamxz/dsa-series/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyamxz/dsa-series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyamxz/dsa-series/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyamxz/dsa-series/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
