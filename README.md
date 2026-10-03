@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/satyamxz/dsa-series/tree/master/0032-longest-valid-parentheses) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 ## Graph Theory
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/satyamxz/dsa-series/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/satyamxz/dsa-series/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/satyamxz/dsa-series/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyamxz/dsa-series/tree/master/0443-string-compression) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/satyamxz/dsa-series/tree/master/0032-longest-valid-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamxz/dsa-series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
@@ -171,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/satyamxz/dsa-series/tree/master/0204-count-primes) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/satyamxz/dsa-series/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
