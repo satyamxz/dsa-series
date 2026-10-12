@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/satyamxz/dsa-series/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/satyamxz/dsa-series/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
+| [0844-backspace-string-compare](https://github.com/satyamxz/dsa-series/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyamxz/dsa-series/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/satyamxz/dsa-series/tree/master/0844-backspace-string-compare) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/satyamxz/dsa-series/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/satyamxz/dsa-series/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/satyamxz/dsa-series/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamxz/dsa-series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/satyamxz/dsa-series/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/satyamxz/dsa-series/tree/master/0678-valid-parenthesis-string) |
+| [0844-backspace-string-compare](https://github.com/satyamxz/dsa-series/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/satyamxz/dsa-series/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Sliding Window
