@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/satyamxz/dsa-series/tree/master/0204-count-primes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [0283-move-zeroes](https://github.com/satyamxz/dsa-series/tree/master/0283-move-zeroes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamxz/dsa-series/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamxz/dsa-series/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/satyamxz/dsa-series/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/satyamxz/dsa-series/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/satyamxz/dsa-series/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/satyamxz/dsa-series/tree/master/0204-count-primes) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/satyamxz/dsa-series/tree/master/0453-minimum-moves-to-equal-array-elements) |
 ## String
 |  |
 | ------- |
