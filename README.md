@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/satyamxz/dsa-series/tree/master/1254-number-of-closed-islands) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyamxz/dsa-series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyamxz/dsa-series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamxz/dsa-series/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 ## Two Pointers
 |  |
@@ -68,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/satyamxz/dsa-series/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0088-merge-sorted-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamxz/dsa-series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
