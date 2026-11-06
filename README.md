@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyamxz/dsa-series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
+| [2747-count-zero-request-servers](https://github.com/satyamxz/dsa-series/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyamxz/dsa-series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/satyamxz/dsa-series/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/satyamxz/dsa-series/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/satyamxz/dsa-series/tree/master/2747-count-zero-request-servers) |
 ## Linked List
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
+| [2747-count-zero-request-servers](https://github.com/satyamxz/dsa-series/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyamxz/dsa-series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyamxz/dsa-series/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Divide and Conquer
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0567-permutation-in-string](https://github.com/satyamxz/dsa-series/tree/master/0567-permutation-in-string) |
 | [0713-subarray-product-less-than-k](https://github.com/satyamxz/dsa-series/tree/master/0713-subarray-product-less-than-k) |
+| [2747-count-zero-request-servers](https://github.com/satyamxz/dsa-series/tree/master/2747-count-zero-request-servers) |
 ## Number Theory
 |  |
 | ------- |
