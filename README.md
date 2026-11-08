@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/satyamxz/dsa-series/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/satyamxz/dsa-series/tree/master/0977-squares-of-a-sorted-array) |
 | [1254-number-of-closed-islands](https://github.com/satyamxz/dsa-series/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyamxz/dsa-series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/satyamxz/dsa-series/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Enumeration
 |  |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/satyamxz/dsa-series/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/satyamxz/dsa-series/tree/master/0240-search-a-2d-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/satyamxz/dsa-series/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [3665-twisted-mirror-path-count](https://github.com/satyamxz/dsa-series/tree/master/3665-twisted-mirror-path-count) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/satyamxz/dsa-series/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -242,15 +245,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/satyamxz/dsa-series/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/satyamxz/dsa-series/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/satyamxz/dsa-series/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 ## Union-Find
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/satyamxz/dsa-series/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 ## Tree
 |  |
 | ------- |
