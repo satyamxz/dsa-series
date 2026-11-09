@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1267-count-servers-that-communicate](https://github.com/satyamxz/dsa-series/tree/master/1267-count-servers-that-communicate) |
 | [1301-number-of-paths-with-max-score](https://github.com/satyamxz/dsa-series/tree/master/1301-number-of-paths-with-max-score) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/satyamxz/dsa-series/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamxz/dsa-series/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/satyamxz/dsa-series/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1882-process-tasks-using-servers](https://github.com/satyamxz/dsa-series/tree/master/1882-process-tasks-using-servers) |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamxz/dsa-series/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/satyamxz/dsa-series/tree/master/1882-process-tasks-using-servers) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/satyamxz/dsa-series/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/satyamxz/dsa-series/tree/master/0054-spiral-matrix) |
 | [0844-backspace-string-compare](https://github.com/satyamxz/dsa-series/tree/master/0844-backspace-string-compare) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamxz/dsa-series/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/satyamxz/dsa-series/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -267,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/satyamxz/dsa-series/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Ordered Set
+|  |
+| ------- |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/satyamxz/dsa-series/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 <!---LeetCode Topics End-->
