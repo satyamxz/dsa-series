@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/satyamxz/dsa-series/tree/master/1929-concatenation-of-array) |
 | [2747-count-zero-request-servers](https://github.com/satyamxz/dsa-series/tree/master/2747-count-zero-request-servers) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/satyamxz/dsa-series/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/satyamxz/dsa-series/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3620-network-recovery-pathways](https://github.com/satyamxz/dsa-series/tree/master/3620-network-recovery-pathways) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/satyamxz/dsa-series/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3665-twisted-mirror-path-count](https://github.com/satyamxz/dsa-series/tree/master/3665-twisted-mirror-path-count) |
